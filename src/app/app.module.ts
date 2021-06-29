@@ -9,6 +9,7 @@ import { TexasComponent } from './Texas/Texas.component';
 import { LandmarksComponent } from './Landmarks/about.component';
 import { ContactComponent } from './contact/contact.component';
 import { HomeComponent } from './home/home.component';
+import { AdventuresComponent } from './adventures/adventures.component';
 
 @NgModule({
   declarations: [
@@ -16,7 +17,8 @@ import { HomeComponent } from './home/home.component';
     TexasComponent,
     LandmarksComponent,
     ContactComponent,
-    HomeComponent
+    HomeComponent,
+    AdventuresComponent
   ],
   imports: [
     BrowserModule,
