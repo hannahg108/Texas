@@ -6,19 +6,19 @@ import { ReactiveFormsModule } from '@angular/forms';
 import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
 import { TexasComponent } from './Texas/Texas.component';
-import { LandmarksComponent } from './Landmarks/about.component';
-import { ContactComponent } from './contact/contact.component';
+import { LandmarksComponent } from './Landmarks/Landmarks.component';
 import { HomeComponent } from './home/home.component';
 import { AdventuresComponent } from './adventures/adventures.component';
+import { FunFactsComponent } from './fun-facts/fun-facts.component';
 
 @NgModule({
   declarations: [
     AppComponent,
     TexasComponent,
     LandmarksComponent,
-    ContactComponent,
     HomeComponent,
-    AdventuresComponent
+    AdventuresComponent,
+    FunFactsComponent
   ],
   imports: [
     BrowserModule,
