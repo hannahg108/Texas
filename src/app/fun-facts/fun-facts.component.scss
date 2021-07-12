@@ -10,11 +10,34 @@ h1 {
 }
 
 p {
-    color: black;
+    color:sienna;
+    text-align: left;
 }
 
 h2 {
     color:rgb(133, 100, 17);
-    text-align: center;
+    text-align: left;
+    font-family: monospace;
 
+}
+
+img {
+    align-items: center;
+    size: 100px;
+}
+
+.hollywoodtext {
+    text-align: left;
+    color:sienna;
+}
+
+.topics {
+    text-align: left;
+    font-family: serif;
+    color:sienna;
+
+}
+
+.celebPics {
+    float: left;
 }
