@@ -28,14 +28,19 @@ p {
     justify-content: center;
     margin-block-start: -50px;
 }
+.slide-number {
+    font-size: 70px;
+}
+.slide-wrapper {
+    margin-left: -50px;
+}
 .Bigger{
     margin-block-start: -20px;
     margin-right: 150px;
 }
 .Bio{
-    display: flex;
-    justify-content: center;
-    margin-top: -750px;
+    margin-top: -100px;
+    margin-left: 0px;
 }
 .containerhome{
     height: 1000px;
@@ -56,36 +61,36 @@ p {
     margin-block-start: -60px;
 }
 .Side1 {
-    margin-block-start: -125px;
-    margin-left: 65px;
+    margin-block-start: -200px;
+    margin-left: 30px;
 }
 .Side2 {
     margin-block-start: -204px;
-    margin-left: 265px;
+    margin-left: 235px;
 }
 .Side3 {
-    margin-block-start: -4px;
-    margin-left: 65px;
+    margin-block-start: 0px;
+    margin-left: 30px;
 }
 .Side4 {
     margin-block-start: -204px;
-    margin-left: 265px;
+    margin-left: 235px;
 }
 .Side5 {
-    margin-block-start: -4px;
-    margin-left: 65px;
+    margin-block-start: 0px;
+    margin-left: 30px;
 }
 .Side6 {
     margin-block-start: -204px;
-    margin-left: 265px;
+    margin-left: 235px;
 }
 .Side7 {
-    margin-block-start: -4px;
-    margin-left: 65px;
+    margin-block-start: 0px;
+    margin-left: 30px;
 }
 .Side8 {
     margin-block-start: -204px;
-    margin-left: 265px;
+    margin-left: 235px;
 }
 
  
@@ -118,5 +123,5 @@ a {
         width: 220px;
     }
 }
-
+ 
 }
