@@ -1,0 +1,34 @@
+p {
+    color:sienna;
+    text-align: center;
+    font-family: monospace;
+}
+h1 {
+    color:rgb(0, 0, 0);
+    text-align: center;
+    font-family: monospace;
+}
+h3 {
+    color:rgb(0, 0, 0);
+    text-align: center;
+    font-family: monospace;
+}
+.pic1 {
+    display: flex;
+    justify-content: center;
+}
+.pic2{
+    display: flex;
+    justify-content: center;
+}
+.pic3{
+    display: flex;
+    float: left;
+}
+.pic4{
+    display: flex;
+    float: right;
+}
+body {
+    margin: 10px 100px;
+}
