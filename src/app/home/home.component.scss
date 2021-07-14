@@ -14,36 +14,33 @@ p {
 
 }h2 {
     color:rgb(155, 146, 231);
-    display: flex;
-    justify-content: space-around;
-    align-items: flex-start;
     font-size: 75px;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-    margin-block-start: 0em;
+    margin-block-start: 20px;
+    margin-left: 970px;
     font-weight: lighter;
 
 }
 .Auto {
-    display: flex;
-    justify-content: center;
-    margin-block-start: -50px;
+    margin-block-start: -560px;
+    margin-left: 680px;
 }
 .slide-number {
     font-size: 70px;
 }
 .slide-wrapper {
-    margin-left: -50px;
+    margin-left: 800px;
 }
 .Bigger{
-    margin-block-start: -20px;
-    margin-right: 150px;
+    margin-block-start: -300px;
+    margin-left: 10px;
 }
 .Bio{
-    margin-top: -100px;
+    margin-top: -250px;
     margin-left: 0px;
 }
 .containerhome{
-    height: 1000px;
+    height: 1050px;
     width: 100%;
     background-image: url(https://images7.alphacoders.com/299/thumb-1920-299470.jpg);
     background-position: center;
