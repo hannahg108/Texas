@@ -17,8 +17,18 @@ h3 {
     display: flex;
     justify-content: center;
 }
-
 .pic2{
     display: flex;
     justify-content: center;
+}
+.pic3{
+    display: flex;
+    float: left;
+}
+.pic4{
+    display: flex;
+    float: right;
+}
+body {
+    margin: 10px 100px;
 }
