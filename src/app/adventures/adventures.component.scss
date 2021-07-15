@@ -51,11 +51,19 @@
   .butFrame:nth-child(-n+2) {
     margin-bottom: 10px;
   }
-  
+  .Woman {
+    margin-left: 350px;
+  }
+  .Houston {
+    margin-right: 300px;
+  }
   .butFrame img {
     width: 100%;
     height: auto;
     display: block;
+  }
+  .Cafe {
+    margin-block-start: -150px;
   }
   
   .butText {
